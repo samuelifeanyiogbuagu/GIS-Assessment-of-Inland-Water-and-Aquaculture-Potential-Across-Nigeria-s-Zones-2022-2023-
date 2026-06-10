@@ -1,0 +1,2 @@
+# GIS-Assessment-of-Inland-Water-and-Aquaculture-Potential-Across-Nigeria-s-Zones-2022-2023-
+This project develops a spatial analysis workflow to examine how aquaculture activities relate to surface water resources across Nigeria’s six geopolitical zones. By combining administrative boundary data with inland water datasets, it assesses regional pressure on water resources and identifies areas suitable for expansion.
